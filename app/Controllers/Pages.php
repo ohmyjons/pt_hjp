@@ -4,19 +4,29 @@ namespace App\Controllers;
 
 class Pages extends BaseController
 {
-	public function home()
+	public function beranda()
 	{
+		$data = [
+			'title' => 'Beranda | PT HJP'
+		];
         // return view('welcome_message');
         // echo "Hello world!";
-		return view('pages/home');
+		echo view('layout/header', $data);
+		echo view('pages/beranda');
+		echo view('layout/footer');
 
 		
 	}
 
-	public function about()
+	public function Profil()
 	{
-		
-		return view('pages/about');
+
+		$data = [
+			'title' => 'Profil | PT HJP'
+		];		
+		echo view('layout/header', $data);
+		echo view('pages/profil');
+		echo view('layout/footer');
 		
 	}
 
