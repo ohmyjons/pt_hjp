@@ -97,14 +97,17 @@
             <div class="col-md-6 d-flex">
                 <div class="img d-flex align-self-stretch" style="background-image:url(images/about.jpg);"></div>
             </div>
-            <div class="col-md-6 p-3 pl-md-5 py-5 bg-primary">
+            <div class="col-md-6 p-3 pl-md-5 pt-5 bg-primary">
                 <div class="row justify-content-start pb-3">
                     <div class="col-md-12 heading-section heading-section-white ftco-animate">
-                        <h2 class="mb-4">Consult us here in <span>ITSolution</span></h2>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <h5>Profil Kami</h5>
+                        <h2 class="mb-4">PT. Hikmah Jaya Putra </h2>
+                        <p>Merupakan perusahaan yang bergerak pada bidang kontraktor, penyediaan tenaga kerja, distribusi, dan maintenance. Berdiri sejak tahun 2003, PT. Hikmah Jaya Putra telah bermitra dengan banyak perusahaan lainnya </p>
+                        
+                        <h6> <a href="/profil"> Selengkapnya > </a></h6>
                     </div>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-6 justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 mb-4">
                             <div class="text">
@@ -137,13 +140,13 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
 </section>
 
-<section class="ftco-section services-section">
+<!-- <section class="ftco-section services-section">
     <div class="container">
         <div class="row justify-content-center pb-5">
             <div class="col-md-6 heading-section text-center ftco-animate">
@@ -193,7 +196,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="ftco-section ftco-no-pt">
     <div class="container">
