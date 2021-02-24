@@ -370,7 +370,7 @@
     </div>
 </section> -->
 
-<!--  -->
+
 <section class="ftco-section ftco-no-pb testimony-section" style="background-image: url(images/bg_1.jpg);">
     <div class="overlay-1"></div>
     <div class="container-fluid">
