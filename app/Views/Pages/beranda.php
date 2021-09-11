@@ -71,7 +71,7 @@
                         <h3>Maintenance</h3>
 
                         <p><br></p>
-                        <p>Pemeliharaan, perbaikan, dan perawatan komponen atau mesin pabrik</p>
+                        <p>Pemeliharaan, perbaikan, dan perawatan komponen atau mesin Pabrik</p>
                     </div>
                 </div>
             </div>
