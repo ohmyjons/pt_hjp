@@ -33,7 +33,7 @@
                     </div>
                     <div class="text">
                         <h3>General Contractor</h3>
-                        <p>Manajemen situs konstruksi, serta komunikasu informasi proyek pembangunan</p>
+                        <p>Manajemen situs konstruksi, serta komunikasu informasi proyek Pembangunan</p>
                     </div>
                 </div>
             </div>
